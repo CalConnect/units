@@ -7,8 +7,15 @@ interpretation and interoperability of units are of critical importance in the
 operation of today's world, from timekeeping, trade, manufacturing to the
 success of critical missions.
 
-=== Charter
+BIPM, the international treaty organization created by the Metre Convention,
+defines the International System of Units (commonly called the "SI System")
+composed of 7 basic units that are used internationally as standard units. There
+are, however, pre-SI units, as well as other SI-derived units, in used today
+internationally. The digital usage of these units for various quantities, and
+the interaction between units and quantities require a refined treatment for
+usage by information systems.
 
+=== Charter
 
 TC UNITS will be a standing committee chartered to provide international
 standards for:
@@ -25,11 +32,11 @@ units, quantities and dimensions.
 . Standardization of serialization languages of the units data model, including
 UnitsML which is an XML serialization of the units model.
 
-. Standardization of encoding languages used to input information into the units
-data model.
+. Standardization of representation schemes used to encode information into the
+units data model.
 
 . Guidelines and mechanisms for the integration of the units model with other
-existing technologies, such as with UnitsML with MathML.
+existing technologies, such as UnitsML with MathML.
 
 . Standardization and operation of the UnitsDB register, which provides
 authoritative information about units in use today.

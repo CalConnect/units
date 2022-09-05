@@ -1,0 +1,59 @@
+== UNITS Technical Committee
+
+=== Background
+
+Units and their representations form the basis of measurements. The accurate
+interpretation and interoperability of units are of critical importance in the
+operation of today's world, from timekeeping, trade, manufacturing to the
+success of critical missions.
+
+=== Charter
+
+
+TC UNITS will be a standing committee chartered to provide international
+standards for:
+
+* representation and encoding of units, quantities, and dimensions;
+* mechanisms for encoding and interpretation of formulas that utilize units.
+
+
+=== Deliverables
+
+. Standardization of a data model for units representation, covering
+units, quantities and dimensions.
+
+. Standardization of serialization languages of the units data model, including
+UnitsML which is an XML serialization of the units model.
+
+. Standardization of encoding languages used to input information into the units
+data model.
+
+. Guidelines and mechanisms for the integration of the units model with other
+existing technologies, such as with UnitsML with MathML.
+
+. Standardization and operation of the UnitsDB register, which provides
+authoritative information about units in use today.
+
+. The UnitsML website at https://www.unitsml.org, as an introductory website
+to the UnitsML technology suite.
+
+
+=== Begin and end dates
+
+Begin: September 2022
+
+End: Standing Committee
+
+
+=== Milestones and work products
+
+* UnitsML standard for the encoding, representation and interpretation of units
+
+* UnitsDB register used for semantic encoding and transformation of units
+
+
+=== Chair (co-chairs)
+
+* Karen Olsen, NIST
+
+* Nick Nicholas, Ribose

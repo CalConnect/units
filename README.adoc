@@ -23,6 +23,10 @@ standards for:
 * representation and encoding of units, quantities, and dimensions;
 * mechanisms for encoding and interpretation of formulas that utilize units.
 
+The TC aims to work closely with the BIPM, CIPM and CGPM towards an
+interoperable "`Digital SI`" infrastructure, and advocate such throughout
+technologies and standards developed at CalConnect.
+
 
 === Deliverables
 

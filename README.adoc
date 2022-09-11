@@ -17,7 +17,7 @@ usage by information systems.
 
 === Charter
 
-TC UNITS will be a standing committee chartered to provide international
+TC UNITS is a standing committee chartered to provide international
 standards for:
 
 * representation and encoding of units, quantities, and dimensions;
@@ -68,3 +68,4 @@ End: Standing Committee
 * Karen Olsen, NIST
 
 * Nick Nicholas, Ribose
+
